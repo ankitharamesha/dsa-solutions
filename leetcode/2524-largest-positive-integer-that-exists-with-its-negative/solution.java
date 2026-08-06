@@ -1,0 +1,22 @@
+import java.util.HashSet;
+import java.util.Set;
+
+class Solution {
+    public int findMaxK(int[] nums) {
+        Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+
+        int maxK = -1;
+
+        for (int num : nums) {
+            // Check for positive integers that have a matching negative integer
+            if (num > 0 && set.contains(-num)) {
+                maxK = Math.max(maxK, num);
+            }
+        }
+
+        return maxK;
+    }
+}
