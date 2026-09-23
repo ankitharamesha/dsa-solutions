@@ -12,6 +12,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ankitharamesha/dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/ankitharamesha/dsa-solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitharamesha/dsa-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +29,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0005-longest-palindromic-substring](https://github.com/ankitharamesha/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/ankitharamesha/dsa-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/ankitharamesha/dsa-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
