@@ -32,6 +32,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0008-string-to-integer-atoi](https://github.com/ankitharamesha/dsa-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitharamesha/dsa-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/ankitharamesha/dsa-solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitharamesha/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/ankitharamesha/dsa-solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,9 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitharamesha/dsa-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/ankitharamesha/dsa-solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ankitharamesha/dsa-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
