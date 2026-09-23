@@ -15,6 +15,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0007-reverse-integer](https://github.com/ankitharamesha/dsa-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/ankitharamesha/dsa-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0066-plus-one](https://github.com/ankitharamesha/dsa-solutions/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0016-3sum-closest](https://github.com/ankitharamesha/dsa-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0018-4sum/) | Medium |
 | [0035-search-insert-position](https://github.com/ankitharamesha/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/ankitharamesha/dsa-solutions/tree/main/0066-plus-one/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
