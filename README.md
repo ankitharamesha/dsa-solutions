@@ -16,6 +16,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/ankitharamesha/dsa-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/ankitharamesha/dsa-solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/ankitharamesha/dsa-solutions/tree/main/0067-add-binary/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0022-generate-parentheses](https://github.com/ankitharamesha/dsa-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitharamesha/dsa-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/ankitharamesha/dsa-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/ankitharamesha/dsa-solutions/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,8 +111,13 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ankitharamesha/dsa-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/ankitharamesha/dsa-solutions/tree/main/0067-add-binary/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/ankitharamesha/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/ankitharamesha/dsa-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
