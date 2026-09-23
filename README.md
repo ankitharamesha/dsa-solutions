@@ -56,6 +56,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0016-3sum-closest](https://github.com/ankitharamesha/dsa-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0018-4sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitharamesha/dsa-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/ankitharamesha/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0018-4sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0018-4sum/) | Medium |
 | [0035-search-insert-position](https://github.com/ankitharamesha/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/ankitharamesha/dsa-solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/ankitharamesha/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0015-3sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ankitharamesha/dsa-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ankitharamesha/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
