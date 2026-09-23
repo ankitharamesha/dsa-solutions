@@ -17,6 +17,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0029-divide-two-integers](https://github.com/ankitharamesha/dsa-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/ankitharamesha/dsa-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/ankitharamesha/dsa-solutions/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/ankitharamesha/dsa-solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitharamesha/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ankitharamesha/dsa-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/ankitharamesha/dsa-solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +122,8 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ankitharamesha/dsa-solutions/tree/main/0067-add-binary/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ankitharamesha/dsa-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
