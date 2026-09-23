@@ -14,6 +14,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0002-add-two-numbers](https://github.com/ankitharamesha/dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/ankitharamesha/dsa-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0029-divide-two-integers](https://github.com/ankitharamesha/dsa-solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitharamesha/dsa-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/ankitharamesha/dsa-solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
