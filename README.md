@@ -22,6 +22,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitharamesha/dsa-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ankitharamesha/dsa-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0006-zigzag-conversion](https://github.com/ankitharamesha/dsa-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/ankitharamesha/dsa-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ankitharamesha/dsa-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | ------- | ------- |
 | [0015-3sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ankitharamesha/dsa-solutions/tree/main/0016-3sum-closest/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ankitharamesha/dsa-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
