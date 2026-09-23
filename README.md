@@ -40,6 +40,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0005-longest-palindromic-substring](https://github.com/ankitharamesha/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/ankitharamesha/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/ankitharamesha/dsa-solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ankitharamesha/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/ankitharamesha/dsa-solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,5 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/ankitharamesha/dsa-solutions/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
