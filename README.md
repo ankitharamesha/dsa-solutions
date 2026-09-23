@@ -35,6 +35,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitharamesha/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/ankitharamesha/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,12 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitharamesha/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ankitharamesha/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ankitharamesha/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
