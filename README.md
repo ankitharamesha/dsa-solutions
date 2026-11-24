@@ -30,6 +30,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitharamesha/dsa-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitharamesha/dsa-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/ankitharamesha/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0066-plus-one](https://github.com/ankitharamesha/dsa-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ankitharamesha/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitharamesha/dsa-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0217-contains-duplicate](https://github.com/ankitharamesha/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0016-3sum-closest](https://github.com/ankitharamesha/dsa-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ankitharamesha/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/ankitharamesha/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
