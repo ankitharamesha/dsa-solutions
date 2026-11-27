@@ -32,6 +32,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0012-integer-to-roman](https://github.com/ankitharamesha/dsa-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitharamesha/dsa-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankitharamesha/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ankitharamesha/dsa-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitharamesha/dsa-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/ankitharamesha/dsa-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/ankitharamesha/dsa-solutions/tree/main/0067-add-binary/) | Easy |
+| [0242-valid-anagram](https://github.com/ankitharamesha/dsa-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0018-4sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ankitharamesha/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/ankitharamesha/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ankitharamesha/dsa-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
