@@ -61,6 +61,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0018-4sum](https://github.com/ankitharamesha/dsa-solutions/tree/main/0018-4sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitharamesha/dsa-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ankitharamesha/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitharamesha/dsa-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | [0066-plus-one](https://github.com/ankitharamesha/dsa-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ankitharamesha/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitharamesha/dsa-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitharamesha/dsa-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankitharamesha/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -131,6 +133,7 @@ Data Structures and Algorithms practice: LeetCode &amp; GFG solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/ankitharamesha/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitharamesha/dsa-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
